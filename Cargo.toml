@@ -1,0 +1,8 @@
+[package]
+name = "sigmaos_anyrun"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "sigmaos_anyrun"
+path = "src/lib.rs"
